@@ -13,7 +13,7 @@ The coursework explores the fundamentals of quantum mechanics, linear algebra, a
 |:---|:---|
 | `/Labs` | Weekly hands-on labs implementing quantum circuits in Qiskit. |
 | `/Homework` | Problem sets covering linear algebra (Dirac notation) and quantum mechanics. |
-| `/Final_Project` | **Capstone Project** (See description below). |
+| `/Final_Project` | **Capstone Project** on Encryption & Decryption using QKD. |
 
 
 ## 🛠️ Tech Stack & Skills
